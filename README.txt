@@ -1,3 +1,5 @@
+Muhammad Ridwan Kurniawan
+24106050043
 Prompt AI: Aku akan membuat suatu program antrian di Bank berbasis Java dan Pyhon dengan struktur data "Queue" berdasarkan ketentuan berikut:
 1. Menggunakan bahasa Java dan Python
 2. Menggunakan tampilan grafis (GUI)
